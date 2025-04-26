@@ -1,0 +1,41 @@
+[33mcommit 393c5a0f422e643e9236491da96f532241b4372e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: AlaaAyman <alaalilo789@gmail.com>
+Date:   Sat Apr 26 17:00:20 2025 +0300
+
+    add t3.txt
+
+[33mcommit eadd6cc19287fe4a7f33a616e1ec10ee5d02e3f0[m
+Author: AlaaAyman <alaalilo789@gmail.com>
+Date:   Sat Apr 26 17:00:09 2025 +0300
+
+    add t2.txt
+
+[33mcommit 382b5dc57bc7ada5b2c968708aacbe641bec4038[m
+Author: AlaaAyman <alaalilo789@gmail.com>
+Date:   Sat Apr 26 16:59:58 2025 +0300
+
+    add t1.txt
+
+[33mcommit ef27116d9238c9f6d4be7725431480ca2422508f[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mfeature-readme[m[33m)[m
+Author: AlaaAyman <alaalilo789@gmail.com>
+Date:   Sat Apr 26 16:32:45 2025 +0300
+
+    Add README.md
+
+[33mcommit cd79e8aa01c848e4ab1f7882ac98cdf13c70d3fc[m
+Author: AlaaAyman <alaalilo789@gmail.com>
+Date:   Sat Apr 26 16:28:54 2025 +0300
+
+    Add .gitignore and ignore temp files
+
+[33mcommit 41920764951cb6f3dfbe96c577a0a0b2e713bc10[m
+Author: AlaaAyman <alaalilo789@gmail.com>
+Date:   Sat Apr 26 16:23:44 2025 +0300
+
+    Initial commit with ex1.pdf
+
+[33mcommit 7aa361a391f7409fd1044bcf1bac2f537adacedf[m
+Author: AlaaAyman <alaalilo789@gmail.com>
+Date:   Sat Apr 26 16:21:21 2025 +0300
+
+    Initial commit with test.txt
